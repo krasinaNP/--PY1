@@ -1,4 +1,3 @@
-
 def get_count_char(str_):
     dict_ = {}
     str_ = "".join(str_.split())
